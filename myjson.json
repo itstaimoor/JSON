@@ -1,0 +1,9 @@
+{
+    "name":"Taimoor",
+    "age":31,
+    "pets":[
+        { "animal":"dog", "name":"Kutta" },
+        { "animal":"cat", "name":"Billi" },
+        { "animal":"hamster", "name":"Chooha" }
+    ]
+}
